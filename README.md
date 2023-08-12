@@ -11,6 +11,7 @@
 ---
 
 🌱1주차: Python, Numpy, Pandas, Matplotlib 기초 실습
+![image](https://github.com/chock-cho/python_FinanceAnalysis/assets/113707388/e341a6cf-8435-45ee-97ee-121d86123f6c)
 
 🌱2주차: 머신러닝과 금융분석
 
