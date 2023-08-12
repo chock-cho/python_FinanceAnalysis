@@ -4,21 +4,18 @@
 ### 💻 파이썬과 인공지능을 활용한 금융 자료 분석 기초 
 ---
 🚩 머신러닝/딥러닝의 기초 이론을 학습하고 이를 토대로 금융 자료를 분석해보았습니다.
-<br>
-🚩 Python/Numpy/Pandas/Matplotlib 을 이용하였습니다.
-<br>
 
-<br>
-</br>
-#🎯 Curriculum
+🚩 Python/Numpy/Pandas/Matplotlib 을 이용하였습니다.
+
+# 🎯 Curriculum
 ---
-<br>
-* 🌱1주차: Python, Numpy, Pandas, Matplotlib 기초 실습
-<br>
-* 🌱2주차: 머신러닝과 금융분석
-<br>
-* 🌱3주차: 시계열 데이터(Time Series Data)
-<br>
-* 🌱4주차: 수익률과 Risk
-<br>
-* 🌱5주차: 금융분석에 Machine Learning 적용하기
+
+🌱1주차: Python, Numpy, Pandas, Matplotlib 기초 실습
+
+🌱2주차: 머신러닝과 금융분석
+
+🌱3주차: 시계열 데이터(Time Series Data)
+
+🌱4주차: 수익률과 Risk
+
+🌱5주차: 금융분석에 Machine Learning 적용하기
